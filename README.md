@@ -2,7 +2,7 @@
   ## Hi 👋, I'm Abdelilah ER-RETBY
 </p>
 
-<hr>
+<hr style="border:1px solid #ccc; width:50%; margin:auto">
 
 <p align="center">
   ### Software Engineer
@@ -13,7 +13,6 @@ Final-year Computer Science Engineering student, passionate about software devel
 Currently looking for a Final Year Project (PFE) internship starting February 2026.
 </p>
 
----
 
 ### Connect with me:
 - Email: [abdelilaherretby@gmail.com](mailto:abdelilaherretby@gmail.com)
