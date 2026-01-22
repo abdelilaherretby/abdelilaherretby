@@ -17,9 +17,8 @@ Currently looking for a Final Year Project (PFE) internship starting February 20
 ## Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ton-username/ton-repo/main/images/java.png" alt="Java" width="40" /> 
-  <img src="https://raw.githubusercontent.com/ton-username/ton-repo/main/images/spring.png" alt="Spring" width="40" /> 
-  <img src="https://raw.githubusercontent.com/ton-username/ton-repo/main/images/python.png" alt="Python" width="40" /> 
-  <img src="https://raw.githubusercontent.com/ton-username/ton-repo/main/images/laravel.png" alt="Laravel" width="40" /> 
-  <img src="https://raw.githubusercontent.com/ton-username/ton-repo/main/images/node.png" alt="Node.js" width="40" />
+  <img src="https://github.com/abdelilaherretby/abdelilaherretby/blob/main/image/java.png" alt="Java" width="40" /> 
+  <img src="https://github.com/abdelilaherretby/abdelilaherretby/blob/main/image/spring.png" alt="Spring" width="40" /> 
+  <img src="https://github.com/abdelilaherretby/abdelilaherretby/blob/main/image/python.png" alt="Python" width="40" />  
+  <img src="https://github.com/abdelilaherretby/abdelilaherretby/blob/main/image/node.png" alt="Node.js" width="40" />
 </p>
