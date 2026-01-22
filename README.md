@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi 👋, I'm Abdelilah ER-RETBY
 
-<!--
-**abdelilaherretby/abdelilaherretby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer
 
-Here are some ideas to get you started:
+Final-year Computer Science Engineering student, passionate about software development and software quality.  
+Currently looking for a Final Year Project (PFE) internship starting February 2026.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 Connect with me:
+- 📧 Email: [abdelilaherretby@gmail.com](mailto:abdelilaherretby@gmail.com)  
+- [![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg)](https://www.linkedin.com/in/abdelilah-er-retby-a01942280/) Abdelilah ER-RETBY
+
+
