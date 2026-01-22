@@ -2,7 +2,7 @@
 
 ## Hi 👋, I'm Abdelilah ER-RETBY
 
-### Software Engineer
+### Software Engieering Student
 
 Final-year Computer Science Engineering student, passionate about software development and software quality.  
 Currently looking for a Final Year Project (PFE) internship starting February 2026.
