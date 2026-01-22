@@ -7,8 +7,9 @@ Currently looking for a Final Year Project (PFE) internship starting February 20
 
 ---
 
-### 📫 Connect with me:
-- 📧 Email: [abdelilaherretby@gmail.com](mailto:abdelilaherretby@gmail.com)
-- 🔗 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdelilah_ER--RETBY-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelilah-er-retby-a01942280/)
+###  Connect with me:
+-  Email: [abdelilaherretby@gmail.com](mailto:abdelilaherretby@gmail.com)
+-  LinkedIn: [abdelilaherretby](https://www.linkedin.com/in/abdelilaherretby)
+
 
 
