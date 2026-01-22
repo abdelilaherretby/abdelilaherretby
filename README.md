@@ -4,11 +4,13 @@
 
 ### Software Engineer
 
+Final-year Computer Science Engineering student, passionate about software development and software quality.  
+Currently looking for a Final Year Project (PFE) internship starting February 2026.
+
+
 </div>
 
 
-Final-year Computer Science Engineering student, passionate about software development and software quality.  
-Currently looking for a Final Year Project (PFE) internship starting February 2026.
 
 
 
