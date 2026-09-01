@@ -2,10 +2,10 @@
 
 ## Hi 👋, I'm Abdelilah ER-RETBY
 
-### Software Engieering Student
+### Full-Stack Software Engineer
 
-Final-year Computer Science Engineering student, passionate about software development and software quality.  
-Currently looking for a Final Year Project (PFE) internship starting February 2026.
+**State Engineering Graduate in Computer Science**, passionate about software development and software quality. Currently seeking a first **full-time CDI opportunity as a Software Engineer / Full Stack Developer**, where I can continue learning, take on new challenges, and contribute to innovative, high-value projects.
+
 
 
 </div>
