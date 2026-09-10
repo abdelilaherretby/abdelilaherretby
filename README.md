@@ -27,9 +27,9 @@
 
 **Frontend**
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" title="React.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" title="React.js / React Native"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactnative/reactnative-original.svg" width="50" height="50" title="React Native"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" title="Tailwind CSS"/>
 </p>
 
 **Database & ORM**
@@ -51,6 +51,10 @@
 **Security**
 <p>
   <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/keycloak/icon/color/keycloak-icon-color.svg" width="50" height="50" title="Keycloak"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/jwt-icon.svg" width="50" height="50" title="JWT"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oauth/oauth-original.svg" width="50" height="50" title="OAuth 2.0"/>
 </p>
 
 **DevOps & Cloud**
