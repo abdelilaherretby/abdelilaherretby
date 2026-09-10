@@ -83,5 +83,5 @@
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="50" height="50" title="Grafana"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/opentelemetry/icon/color/opentelemetry-icon-color.svg" width="50" height="50" title="OpenTelemetry"/>
+  <img src="https://raw.githubusercontent.com/open-telemetry/opentelemetry.io/main/static/img/logos/opentelemetry-horizontal-color.svg" width="160" height="50" title="OpenTelemetry"/>
 </p>
