@@ -22,7 +22,7 @@
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50" height="50" title="Spring Framework 7"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Spring_Boot_4.1-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="38" title="Spring Boot 4.1"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/spring-icon.svg" width="50" height="50" title="Spring Boot 4.1"/>
 </p>
 
 **Database & ORM**
@@ -34,9 +34,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="50" height="50" title="Redis"/>
 </p>
 
-**Messaging**
+**Messaging & Streaming**
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="50" height="50" title="Apache Kafka 4"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" width="50" height="50" title="RabbitMQ"/>
 </p>
 
 **DevOps & Cloud**
@@ -46,6 +48,15 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" title="Kubernetes"/>
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" title="AWS"/>
+</p>
+
+**Version Control**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" title="Git"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50" title="GitHub"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="50" height="50" title="GitLab"/>
 </p>
 
 **Testing & Observability**
