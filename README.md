@@ -22,7 +22,14 @@
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50" height="50" title="Spring Framework 7"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/spring-icon.svg" width="50" height="50" title="Spring Boot 4.1"/>
+  <img src="https://img.shields.io/badge/Spring_Boot_4.1-6DB33F?style=flat-square&logo=springboot&logoColor=white" height="50" title="Spring Boot 4.1"/>
+</p>
+
+**Frontend**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" title="React.js"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactnative/reactnative-original.svg" width="50" height="50" title="React Native"/>
 </p>
 
 **Database & ORM**
@@ -39,6 +46,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="50" height="50" title="Apache Kafka 4"/>
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" width="50" height="50" title="RabbitMQ"/>
+</p>
+
+**Security**
+<p>
+  <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/keycloak/icon/color/keycloak-icon-color.svg" width="50" height="50" title="Keycloak"/>
 </p>
 
 **DevOps & Cloud**
