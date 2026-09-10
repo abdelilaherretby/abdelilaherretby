@@ -20,9 +20,9 @@
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" title="Java 25 LTS"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50" height="50" title="Spring Boot 4.1 + Spring Framework 7"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50" height="50" title="Spring Framework 7"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Spring_Security_7-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" height="38" title="Spring Security 7"/>
+  <img src="https://img.shields.io/badge/Spring_Boot_4.1-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="38" title="Spring Boot 4.1"/>
 </p>
 
 **Database & ORM**
@@ -56,5 +56,5 @@
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="50" height="50" title="Grafana"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/open-telemetry/opentelemetry.io/main/static/img/logos/opentelemetry-icon-color.svg" width="50" height="50" title="OpenTelemetry"/>
+  <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/opentelemetry/icon/color/opentelemetry-icon-color.svg" width="50" height="50" title="OpenTelemetry"/>
 </p>
