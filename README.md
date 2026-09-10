@@ -22,7 +22,7 @@
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50" height="50" title="Spring Framework 7"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Spring_Boot_4.1-6DB33F?style=flat-square&logo=springboot&logoColor=white" height="50" title="Spring Boot 4.1"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" width="50" height="50" title="Spring Boot 4.1"/>
 </p>
 
 **Frontend**
