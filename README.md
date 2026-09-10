@@ -17,8 +17,8 @@
 ## 🛠️ Tech Stack
 
 <table>
-  <tr>
-    <td valign="top" width="50%">
+<tr>
+<td valign="top" width="50%">
 
 **Backend**
 <p>
@@ -29,8 +29,8 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" width="50" height="50" title="Spring Boot 4.1"/>
 </p>
 
-    </td>
-    <td valign="top" width="50%">
+</td>
+<td valign="top" width="50%">
 
 **Frontend**
 <p>
@@ -39,10 +39,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" title="Tailwind CSS"/>
 </p>
 
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
 
 **Database & ORM**
 <p>
@@ -53,8 +53,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="50" height="50" title="Redis"/>
 </p>
 
-    </td>
-    <td valign="top" width="50%">
+</td>
+<td valign="top" width="50%">
 
 **Messaging & Streaming**
 <p>
@@ -63,10 +63,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" width="50" height="50" title="RabbitMQ"/>
 </p>
 
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
 
 **Security**
 <p>
@@ -77,8 +77,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oauth/oauth-original.svg" width="50" height="50" title="OAuth 2.0"/>
 </p>
 
-    </td>
-    <td valign="top" width="50%">
+</td>
+<td valign="top" width="50%">
 
 **DevOps & Cloud**
 <p>
@@ -89,10 +89,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" title="AWS"/>
 </p>
 
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
 
 **Version Control**
 <p>
@@ -103,8 +103,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="50" height="50" title="GitLab"/>
 </p>
 
-    </td>
-    <td valign="top" width="50%">
+</td>
+<td valign="top" width="50%">
 
 **Testing & Observability**
 <p>
@@ -117,6 +117,6 @@
   <img src="https://raw.githubusercontent.com/open-telemetry/opentelemetry.io/main/static/img/logos/opentelemetry-horizontal-color.svg" width="160" height="50" title="OpenTelemetry"/>
 </p>
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
