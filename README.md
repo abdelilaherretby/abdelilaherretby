@@ -9,8 +9,14 @@
 </div>
 
 ### 🤝 Connect with me:
-- 📧 Email: [abdelilaherretby@gmail.com](mailto:abdelilaherretby@gmail.com)
-- 💼 LinkedIn: [Abdelilah ER-RETBY](https://www.linkedin.com/in/abdelilah-er-retby-a01942280/)
+
+<a href="mailto:abdelilaherretby@gmail.com">
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/google-gmail.svg" width="40" height="40" title="abdelilaherretby@gmail.com"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/abdelilah-er-retby-a01942280/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40" title="Abdelilah ER-RETBY"/>
+</a>
 
 ---
 
