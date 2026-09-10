@@ -16,32 +16,45 @@
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="55" height="55" title="Java 25 LTS"/>
+**Backend**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" title="Java 25 LTS"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="55" height="55" title="Spring Boot 4.1 + Spring Framework 7"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50" height="50" title="Spring Boot 4.1 + Spring Framework 7"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Spring_Security_7-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" height="40" title="Spring Security 7"/>
+  <img src="https://img.shields.io/badge/Spring_Security_7-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" height="38" title="Spring Security 7"/>
+</p>
+
+**Database & ORM**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" height="50" title="PostgreSQL"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="55" height="55" title="PostgreSQL + Hibernate 7"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-plain.svg" width="50" height="50" title="Hibernate 7"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-plain.svg" width="55" height="55" title="Hibernate 7"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="50" height="50" title="Redis"/>
+</p>
+
+**Messaging**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="50" height="50" title="Apache Kafka 4"/>
+</p>
+
+**DevOps & Cloud**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50" title="Docker"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="55" height="55" title="Redis"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" title="Kubernetes"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="55" height="55" title="Apache Kafka 4"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" title="AWS"/>
+</p>
+
+**Testing & Observability**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-plain.svg" width="50" height="50" title="JUnit 5 + Testcontainers"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="55" height="55" title="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="50" height="50" title="Prometheus"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="55" height="55" title="Kubernetes"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="50" height="50" title="Grafana"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="55" title="AWS"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-plain.svg" width="55" height="55" title="JUnit 5 + Testcontainers"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="55" height="55" title="Prometheus"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="55" height="55" title="Grafana"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/open-telemetry/opentelemetry.io/main/static/img/logos/opentelemetry-icon-color.svg" width="55" height="55" title="OpenTelemetry"/>
+  <img src="https://raw.githubusercontent.com/open-telemetry/opentelemetry.io/main/static/img/logos/opentelemetry-icon-color.svg" width="50" height="50" title="OpenTelemetry"/>
 </p>
