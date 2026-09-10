@@ -9,8 +9,8 @@
 </div>
 
 ### 🤝 Connect with me:
-- <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/google-gmail.svg" width="20" height="20"/>[abdelilaherretby@gmail.com](mailto:abdelilaherretby@gmail.com)
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="20" height="20"/>[Abdelilah ER-RETBY](https://www.linkedin.com/in/abdelilah-er-retby-a01942280/)
+- <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/google-gmail.svg" width="20" height="20"/> [abdelilaherretby@gmail.com](mailto:abdelilaherretby@gmail.com)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="20" height="20"/> [Abdelilah ER-RETBY](https://www.linkedin.com/in/abdelilah-er-retby-a01942280/)
 
 ---
 
