@@ -52,7 +52,7 @@
 <p>
   <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/keycloak/icon/color/keycloak-icon-color.svg" width="50" height="50" title="Keycloak"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/jwt-icon.svg" width="50" height="50" title="JWT"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" height="50" title="JWT"/>
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oauth/oauth-original.svg" width="50" height="50" title="OAuth 2.0"/>
 </p>
