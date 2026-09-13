@@ -32,9 +32,9 @@
 <tr>
 <td>
 
-- 🎓 **State Engineer** in Computer Science — ENSA Marrakech (2026)
+- 🎓 **State Engineer** in Computer Science - ENSA Marrakech (2026)
 - 💼 Currently looking for a **full-time CDI** as Software Engineer / Full Stack Developer
-- 🌱 Currently learning about **DevOps** — Docker, Kubernetes, CI/CD, Terraform
+- 🌱 Currently learning about **DevOps** - Docker, Kubernetes, CI/CD, Terraform
 - 🔭 Working on personal projects with **Java Spring Boot** & **React**
 - 📍 Based in **Casablanca, Morocco**
 
