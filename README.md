@@ -17,8 +17,8 @@
     <img src="https://img.shields.io/badge/Gmail-abdelilaherretby%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" height="28"/>
   </a>
   &nbsp;
-  <a href="https://wa.me/212XXXXXXXXX">
-    <img src="https://img.shields.io/badge/WhatsApp-%2B212%20XXXXXXXXX-25D366?style=flat-square&logo=whatsapp&logoColor=white" height="28"/>
+  <a href="https://wa.me/212627724065">
+    <img src="https://img.shields.io/badge/WhatsApp-%2B212%627724065-25D366?style=flat-square&logo=whatsapp&logoColor=white" height="28"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/abdelilah-er-retby-a01942280/">
