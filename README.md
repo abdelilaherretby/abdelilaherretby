@@ -26,13 +26,8 @@
   </a>
 </p>
 
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
-<div align="center">
 <table border="0" cellspacing="0" cellpadding="10">
 <tr>
 <td valign="top" width="50%">
@@ -141,4 +136,5 @@
 </td>
 </tr>
 </table>
+
 </div>
