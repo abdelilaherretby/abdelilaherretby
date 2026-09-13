@@ -1,8 +1,7 @@
 <div align="center">
 
 <h2>
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=620&height=60&lines=+I'm+Abdelilah+Er-Retby;Welcome+to+my+GitHub+profile+!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=700&height=60&lines=Hi+👋%2C+I'm+Abdelilah+Er-Retby;Welcome+to+my+GitHub+profile+!" alt="Typing SVG" />
 </h2>
 
 ### Full-Stack Software Engineer
