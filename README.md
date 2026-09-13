@@ -17,14 +17,30 @@
     <img src="https://img.shields.io/badge/Gmail-abdelilaherretby%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" height="45"/>
   </a>
   &nbsp;
-<a href="https://wa.me/212627724065">
-  <img src="https://img.shields.io/badge/WhatsApp-%2B212%20627724065-25D366?style=flat-square&logo=whatsapp&logoColor=white" height="45"/>
-</a>
+  <a href="https://wa.me/212627724065">
+    <img src="https://img.shields.io/badge/WhatsApp-%2B212%20627724065-25D366?style=flat-square&logo=whatsapp&logoColor=white" height="45"/>
+  </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/abdelilah-er-retby-a01942280/">
     <img src="https://img.shields.io/badge/LinkedIn-Abdelilah%20ER--RETBY-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="45"/>
   </a>
 </p>
+
+### 👨‍💻 About Me
+
+<table border="0" cellspacing="0" cellpadding="10">
+<tr>
+<td>
+
+- 🎓 **State Engineer** in Computer Science — ENSA Marrakech (2026)
+- 💼 Currently looking for a **full-time CDI** as Software Engineer / Full Stack Developer
+- 🌱 Currently learning about **DevOps** — Docker, Kubernetes, CI/CD, Terraform
+- 🔭 Working on personal projects with **Java Spring Boot** & **React**
+- 📍 Based in **Casablanca, Morocco**
+
+</td>
+</tr>
+</table>
 
 ### 🛠️ Tech Stack
 
