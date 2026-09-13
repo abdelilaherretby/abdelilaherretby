@@ -1,7 +1,7 @@
 <div align="center">
 
 <h2>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=2196F3&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+👋%2C+I'm+Abdelilah+Er-Retby;Welcome+to+my+GitHub+profile+!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=700&height=60&lines=Hi+👋%2C+I'm+Abdelilah+Er-Retby;Welcome+to+my+GitHub+profile+!" alt="Typing SVG" />
 </h2>
 
 ### Full-Stack Software Engineer
