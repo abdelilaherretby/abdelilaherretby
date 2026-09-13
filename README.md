@@ -8,12 +8,25 @@
 
 **State Engineering Graduate in Computer Science**, passionate about software development and software quality. Currently seeking a first **full-time CDI opportunity as a Software Engineer / Full Stack Developer**, where I can continue learning, take on new challenges, and contribute to innovative, high-value projects.
 
-</div>
+<br/>
 
-### 🤝 Connect with me:
-- <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/google-gmail.svg" width="20" height="20"/> [abdelilaherretby@gmail.com](mailto:abdelilaherretby@gmail.com)
-- <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/whatsapp-icon.svg" width="20" height="20"/> [+212 XXXXXXXXX](https://wa.me/212XXXXXXXXX)
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="20" height="20"/> [Abdelilah ER-RETBY](https://www.linkedin.com/in/abdelilah-er-retby-a01942280/)
+### 🤝 Connect with me
+
+<p>
+  <a href="mailto:abdelilaherretby@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-abdelilaherretby%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" height="28"/>
+  </a>
+  &nbsp;
+  <a href="https://wa.me/212XXXXXXXXX">
+    <img src="https://img.shields.io/badge/WhatsApp-%2B212%20XXXXXXXXX-25D366?style=flat-square&logo=whatsapp&logoColor=white" height="28"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/abdelilah-er-retby-a01942280/">
+    <img src="https://img.shields.io/badge/LinkedIn-Abdelilah%20ER--RETBY-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28"/>
+  </a>
+</p>
+
+</div>
 
 ---
 
